@@ -12,7 +12,12 @@ env/
 # Large generated datasets
 data/raw/*.csv
 data/processed/*.csv
-data/database/*.db
+
+# Local full database
+data/database/sales.db
+
+# Deployment database
+!data/database/sales_deploy.db
 
 # Power BI exported data
 powerbi/*.csv
