@@ -1,0 +1,17 @@
+Column,Datatype
+OrderID,str
+CustomerID,str
+EmployeeID,str
+ProductID,str
+OrderDate,str
+DeliveryDate,str
+Quantity,int64
+CostPrice,float64
+SellingPrice,float64
+Discount,int64
+SalesAmount,float64
+Profit,float64
+ShippingCost,int64
+PaymentMode,str
+OrderStatus,str
+ShippingMode,str

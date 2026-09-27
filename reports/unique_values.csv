@@ -1,0 +1,17 @@
+Column,UniqueValues
+OrderID,1500000
+CustomerID,475144
+EmployeeID,500
+ProductID,2000
+OrderDate,2201
+DeliveryDate,2210
+Quantity,10
+CostPrice,1950
+SellingPrice,1999
+Discount,6
+SalesAmount,106161
+Profit,118841
+ShippingCost,461
+PaymentMode,6
+OrderStatus,3
+ShippingMode,3

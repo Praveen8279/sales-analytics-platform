@@ -1,0 +1,26 @@
+.kpi-card{
+    background:#FFFFFF;
+    padding:20px;
+    border-radius:15px;
+    box-shadow:0px 4px 15px rgba(0,0,0,0.10);
+    border-left:6px solid #1F77B4;
+    margin-bottom:10px;
+}
+
+.kpi-title{
+    font-size:16px;
+    color:#666666;
+    font-weight:600;
+}
+
+.kpi-value{
+    font-size:34px;
+    font-weight:bold;
+    color:#111111;
+    margin-top:10px;
+}
+
+.kpi-card:hover{
+    box-shadow:0px 8px 25px rgba(0,0,0,0.18);
+    transition:0.3s;
+}

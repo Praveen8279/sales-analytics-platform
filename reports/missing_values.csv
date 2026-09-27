@@ -1,0 +1,17 @@
+Column,MissingValues,Percentage
+OrderID,0,0.0
+CustomerID,0,0.0
+EmployeeID,0,0.0
+ProductID,0,0.0
+OrderDate,0,0.0
+DeliveryDate,0,0.0
+Quantity,0,0.0
+CostPrice,0,0.0
+SellingPrice,0,0.0
+Discount,0,0.0
+SalesAmount,0,0.0
+Profit,0,0.0
+ShippingCost,0,0.0
+PaymentMode,0,0.0
+OrderStatus,0,0.0
+ShippingMode,0,0.0
