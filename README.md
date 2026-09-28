@@ -6,8 +6,8 @@ The application is deployed using Streamlit Community Cloud and provides access 
 
 ## 🔗 Project Links
 
-- 🚀 **(https://sales-analytics-platform.streamlit.app/)**
-- 💻 **(https://github.com/Praveen8279/sales-analytics-platform)**
+- 🚀 [Live Streamlit Dashboard](https://sales-analytics-platform.streamlit.app/)
+- 💻 [GitHub Repository](https://github.com/Praveen8279/sales-analytics-platform)
 
 ### 🚀 End-to-End Business Intelligence & Data Analytics Solution
 
