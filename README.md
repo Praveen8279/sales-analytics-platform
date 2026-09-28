@@ -2,9 +2,12 @@
 
 # 📊 Sales Analytics Platform
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://sales-analytics-platform.streamlit.app)
+The application is deployed using Streamlit Community Cloud and provides access to all four interactive analytics dashboards.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Praveen8279/sales-analytics-platform)
+## 🔗 Project Links
+
+- 🚀 **[Live Streamlit Dashboard](https://sales-analytics-platform.streamlit.app/)**
+- 💻 **[GitHub Repository](https://github.com/Praveen8279/sales-analytics-platform)**
 
 ### 🚀 End-to-End Business Intelligence & Data Analytics Solution
 
