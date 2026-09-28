@@ -440,6 +440,41 @@ The project contains **4 professional dashboards**.
 
 ---
 
+# 📸 Dashboard Screenshots
+
+## 📊 Executive Dashboard
+
+The Executive Dashboard provides a high-level overview of business performance through key sales and profit KPIs, monthly trends, payment mode distribution, and category analysis.
+
+![Executive Dashboard](screenshots/executive-dashboard.png)
+
+---
+
+## 👥 Customer Analytics
+
+The Customer Analytics dashboard focuses on customer behavior, customer segments, customer distribution, and customer-related sales insights.
+
+![Customer Analytics](screenshots/customer-analytics.png)
+
+---
+
+## 📦 Product Analytics
+
+The Product Analytics dashboard provides product, category, and sub-category level analysis to understand product performance.
+
+![Product Analytics](screenshots/product-analytics.png)
+
+---
+
+## 💰 Sales & Profit Analytics
+
+The Sales & Profit Analytics dashboard provides detailed analysis of sales performance, profitability, trends, and financial KPIs.
+
+![Sales & Profit Analytics](screenshots/sales-profit-analytics.png)
+
+---
+
+
 # 📊 Executive Dashboard
 
 The Executive Dashboard provides an overview of business performance through KPIs and interactive visualizations.
@@ -480,15 +515,7 @@ The Executive Dashboard helps business leaders quickly answer:
 
 ---
 
-## Executive Dashboard Screenshot
 
-```text
-Insert Screenshot Here
-
-screenshots/executive_dashboard.png
-```
-
----
 
 # 👥 Customer Analytics Dashboard
 
@@ -531,15 +558,7 @@ The Customer Analytics Dashboard focuses on understanding customer behavior and 
 
 ---
 
-## Customer Dashboard Screenshot
 
-```text
-Insert Screenshot Here
-
-screenshots/customer_analytics.png
-```
-
----
 
 # 📦 Product Analytics Dashboard
 
@@ -580,15 +599,7 @@ The Product Analytics Dashboard helps identify top-performing products and categ
 
 ---
 
-## Product Dashboard Screenshot
 
-```text
-Insert Screenshot Here
-
-screenshots/product_analytics.png
-```
-
----
 
 # 💹 Sales & Profit Analytics Dashboard
 
@@ -634,15 +645,7 @@ This dashboard provides detailed analysis of revenue, profitability, discounts, 
 
 ---
 
-## Sales Dashboard Screenshot
 
-```text
-Insert Screenshot Here
-
-screenshots/sales_profit_analytics.png
-```
-
----
 
 # 📈 Power BI Dashboard
 
@@ -666,15 +669,7 @@ A professional Business Intelligence dashboard was also developed using Microsof
 
 ---
 
-## Power BI Screenshot
 
-```text
-Insert Screenshot Here
-
-screenshots/powerbi_dashboard.png
-```
-
----
 
 # 🎯 Dashboard Summary
 
